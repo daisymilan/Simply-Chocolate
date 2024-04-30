@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daisymilany/simply-chocolate.git"
+    "url": "git+https://github.com/daisymilan/simply-chocolate.git"
   },
   "keywords": [],
   "author": "Daisy Milan <daisymilan3a@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daisymilany/simply-chocolate/issues"
+    "url": "https://github.com/daisymilan/simply-chocolate/issues"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
